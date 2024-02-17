@@ -1,0 +1,2 @@
+# Java OOP Student Management System
+ This repo introduces a Java program demonstrating an Object-Oriented Programming approach for managing different types of students. The program uses abstract classes and interfaces to represent generic student behavior, along with specific implementations for Bachelor, Master, and PhD students. The `StudentApp` class serves as the entry point for testing and displaying student information.
